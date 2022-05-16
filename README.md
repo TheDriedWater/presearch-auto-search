@@ -24,3 +24,7 @@ This code is only for learning purposes and the creator doesn't have any respons
 
 7- Run the program:
 > python app.py
+
+# BUY ME A COFFEE
+
+https://www.buymeacoffee.com/driedwater
